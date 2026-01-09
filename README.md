@@ -1,1 +1,1 @@
-# AI-projects
+# Semantic search example
